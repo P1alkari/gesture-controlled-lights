@@ -28,8 +28,8 @@ The goal of the project is to showcase skills in **Python, computer vision, seri
 ## 🧰 Hardware Requirements
 
 * Arduino Uno (or compatible)
-* 5 LEDs
-* 5 resistors (220–330Ω)
+* 4 LEDs
+* 4 resistors (220–330Ω)
 * Breadboard
 * Jumper wires
 * USB cable
